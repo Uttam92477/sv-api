@@ -1,0 +1,8 @@
+{
+  "realm": "ARealm",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "none",
+  "resource": "sv-api",
+  "public-client": true,
+  "confidential-port": 0
+}
